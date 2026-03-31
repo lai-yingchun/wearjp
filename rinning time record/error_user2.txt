@@ -5,7 +5,7 @@ miiinamiii0402 -> 194 outfits | ⏱ 249.88s | avg 215.72s
 annlove -> 151 outfits | ⏱ 117.66s | avg 213.54s                                                                                      
 m00000ri -> 7 outfits | ⏱ 6.54s | avg 209.04s                                                                                         
 waka420 -> 259 outfits | ⏱ 183.99s | avg 208.50s                                                                                      
-                                                                                  lily0boyish -> 112 outfits | ⏱ 175.29s | avg 207.81s
+lily0boyish -> 112 outfits | ⏱ 175.29s | avg 207.81s
 kabu0806 -> 207 outfits | ⏱ 142.94s | avg 206.49s                                 
 uichaningni -> 61 outfits | ⏱ 150.10s | avg 205.36s                               
 matsu0420des -> 233 outfits | ⏱ 267.55s | avg 206.58s                             
@@ -19,500 +19,24 @@ higeyama -> 35 outfits | ⏱ 126.86s | avg 214.17s
 1843059 -> 99 outfits | ⏱ 62.80s | avg 211.60s                                    
 wendys2 -> 31 outfits | ⏱ 21.04s | avg 208.43s                                    
 naochiiii -> 207 outfits | ⏱ 139.92s | avg 207.30s                                
-Users:  13%|███▉                           | 63/500 [3:48:23<16:14:31, 133.80s/it]
-ua2004neco: 14it [08:16, 38.
-ua2004neco: 14it [08:40, 38.
-                                                        ua2004neco -> 819 outfits | ⏱ 520.54s | avg 212.36s
-Users:  13%|▏| 64/500 [3:57:
-ships_2722hi: 0it [00:00, ?i
-ships_2722hi: 1it [00:01,  1
-ships_2722hi: 1it [00:40,  1
-ships_2722hi: 2it [00:42, 24
-ships_2722hi: 2it [01:22, 24
-ships_2722hi: 3it [01:24, 32
-ships_2722hi: 3it [02:05, 32
-ships_2722hi: 4it [02:07, 36
-ships_2722hi: 4it [02:55, 36
-ships_2722hi: 5it [02:57, 41
-ships_2722hi: 5it [03:40, 41
-ships_2722hi: 6it [03:42, 42
-ships_2722hi: 6it [03:50, 42
-ships_2722hi: 7it [03:52, 32
-ships_2722hi: 7it [03:52, 32
-ships_2722hi: 8it [03:54, 22
-ships_2722hi: 8it [03:54, 22
-ships_2722hi: 9it [03:56, 16
-ships_2722hi: 9it [03:56, 16
-ships_2722hi: 10it [03:58, 1
-ships_2722hi: 10it [03:59, 1
-ships_2722hi: 11it [04:01,  
-ships_2722hi: 11it [04:01,  
-ships_2722hi: 12it [04:03,  
-ships_2722hi: 12it [04:03,  
-ships_2722hi: 13it [04:05,  
-ships_2722hi: 13it [04:05,  
-ships_2722hi: 14it [04:07,  
-ships_2722hi: 14it [04:07,  
-ships_2722hi: 15it [04:10,  
-ships_2722hi: 15it [04:10,  
-ships_2722hi: 16it [04:12,  
-ships_2722hi: 16it [04:12,  
-ships_2722hi: 17it [04:14,  
-ships_2722hi: 17it [04:14,  
-ships_2722hi: 18it [04:16,  
-ships_2722hi: 18it [04:16,  
-ships_2722hi: 19it [04:18,  
-ships_2722hi: 19it [04:18,  
-ships_2722hi: 20it [04:21,  
-ships_2722hi: 20it [04:21,  
-ships_2722hi: 21it [04:23,  
-ships_2722hi: 21it [04:23,  
-ships_2722hi: 22it [04:25,  
-ships_2722hi: 22it [04:25,  
-ships_2722hi: 23it [04:27,  
-ships_2722hi: 23it [04:27,  
-ships_2722hi: 24it [04:29,  
-ships_2722hi: 24it [04:29,  
-ships_2722hi: 25it [04:31,  
-ships_2722hi: 25it [04:32,  
-ships_2722hi: 26it [04:34,  
-ships_2722hi: 26it [04:34,  
-ships_2722hi: 27it [04:36,  
-ships_2722hi: 27it [04:36,  
-ships_2722hi: 28it [04:38,  
-ships_2722hi: 28it [04:38,  
-ships_2722hi: 29it [04:40,  
-ships_2722hi: 29it [04:40,  
-ships_2722hi: 30it [04:42,  
-ships_2722hi: 30it [04:42,  
-ships_2722hi: 31it [04:44,  
-ships_2722hi: 31it [04:45,  
-ships_2722hi: 32it [04:47,  
-ships_2722hi: 32it [04:47,  
-ships_2722hi: 33it [04:49,  
-ships_2722hi: 33it [04:49,  
-ships_2722hi: 34it [04:52,  
-ships_2722hi: 34it [04:52,  
-ships_2722hi: 35it [04:54,  
-ships_2722hi: 35it [04:54,  
-ships_2722hi: 36it [04:56,  
-ships_2722hi: 36it [04:56,  
-ships_2722hi: 37it [04:58,  
-ships_2722hi: 37it [04:59,  
-ships_2722hi: 38it [05:01,  
-ships_2722hi: 38it [05:01,  
-ships_2722hi: 39it [05:03,  
-ships_2722hi: 39it [05:03,  
-ships_2722hi: 40it [05:05,  
-ships_2722hi: 40it [05:05,  
-ships_2722hi: 41it [05:07,  
-ships_2722hi: 41it [05:07,  
-ships_2722hi: 42it [05:09,  
-ships_2722hi: 42it [05:10,  
-ships_2722hi: 43it [05:12,  
-ships_2722hi: 43it [05:12,  
-ships_2722hi: 44it [05:14,  
-ships_2722hi: 44it [05:14,  
-ships_2722hi: 45it [05:16,  
-ships_2722hi: 45it [05:16,  
-ships_2722hi: 46it [05:18,  
-ships_2722hi: 46it [05:18,  
-ships_2722hi: 47it [05:20,  
-ships_2722hi: 47it [05:21,  
-ships_2722hi: 48it [05:23,  
-ships_2722hi: 48it [05:23,  
-ships_2722hi: 49it [05:25,  
-ships_2722hi: 49it [05:25,  
-ships_2722hi: 50it [05:27,  
-ships_2722hi: 50it [05:27,  
+63/500 [3:48:23<16:14:31, 133.80s/it]
+ua2004neco -> 819 outfits | ⏱ 520.54s | avg 212.36s 
 ships_2722hi -> 311 outfits | ⏱ 327.83s | avg 214.19s
-Users:  13%|▏| 65/500 [4:02:
-yamada4746: 0it [00:00, ?it/
-yamada4746: 1it [00:02,  2.0
-yamada4746: 1it [00:39,  2.0
-yamada4746: 2it [00:41, 24.1
-yamada4746: 2it [01:19, 24.1
-yamada4746: 3it [01:21, 31.1
-yamada4746: 3it [01:58, 31.1
-yamada4746: 4it [02:00, 34.3
-yamada4746: 4it [02:39, 34.3
-yamada4746: 5it [02:40, 36.5
-yamada4746: 5it [03:22, 36.5
-yamada4746: 6it [03:24, 39.0
-yamada4746: 6it [04:03, 39.0
-yamada4746: 7it [04:05, 39.6
-yamada4746: 7it [04:44, 39.6
-yamada4746: 8it [04:46, 40.1
-yamada4746: 8it [05:23, 40.1
-yamada4746: 9it [05:25, 39.5
-yamada4746: 9it [06:02, 39.5
-yamada4746: 10it [06:04, 39.
-yamada4746: 10it [06:13, 39.
 yamada4746 -> 554 outfits | ⏱ 373.04s | avg 216.67s
-Users:  13%|▏| 66/500 [4:08:
-honyopupu: 0it [00:00, ?it/s
-honyopupu: 1it [00:01,  1.95
-honyopupu: 1it [00:36,  1.95
-honyopupu -> 50 outfits | ⏱ 36.67s | avg 213.90s
-Users:  13%|▏| 67/500 [4:09:
-gontaaaaan2602: 0it [00:00, 
-gontaaaaan2602: 1it [00:01, 
-gontaaaaan2602: 1it [00:40, 
-gontaaaaan2602: 2it [00:42, 
-gontaaaaan2602: 2it [00:48, 
+honyopupu -> 50 outfits | ⏱ 36.67s | avg 213.90s 
 gontaaaaan2602 -> 70 outfits | ⏱ 48.14s | avg 211.39s
-Users:  14%|▏| 68/500 [4:10:
-mhpht555: 1it [00:01,  1.94s
-mhpht555: 1it [00:22,  1.94s
-mhpht555 -> 34 outfits | ⏱ 22.99s | avg 208.58s
-Users:  14%|▏| 69/500 [4:10:
-hokusetu0821: 0it [00:00, ?i
-hokusetu0821: 1it [00:01,  1
-hokusetu0821: 1it [00:37,  1
-hokusetu0821: 2it [00:39, 23
-hokusetu0821: 2it [01:14, 23
-hokusetu0821: 3it [01:16, 29
-hokusetu0821: 3it [01:52, 29
-hokusetu0821: 4it [01:54, 32
-hokusetu0821: 4it [02:30, 32
-hokusetu0821: 5it [02:32, 34
-hokusetu0821: 5it [03:06, 34
-hokusetu0821: 6it [03:08, 35
-hokusetu0821: 6it [03:44, 35
-hokusetu0821: 7it [03:47, 36
-hokusetu0821: 7it [04:23, 36
-hokusetu0821: 8it [04:25, 36
-hokusetu0821: 8it [05:03, 36
-hokusetu0821: 9it [05:05, 37
-hokusetu0821: 9it [05:42, 37
-hokusetu0821: 10it [05:43, 3
-hokusetu0821: 10it [06:02, 3
-hokusetu0821: 11it [06:04, 3
-hokusetu0821: 11it [06:04, 3
-hokusetu0821: 12it [06:06, 2
-hokusetu0821: 12it [06:06, 2
-hokusetu0821: 13it [06:08, 1
-hokusetu0821: 13it [06:08, 1
-hokusetu0821: 14it [06:11, 1
-hokusetu0821: 14it [06:11, 1
-hokusetu0821: 15it [06:13,  
-hokusetu0821: 15it [06:13,  
-hokusetu0821: 16it [06:15,  
-hokusetu0821: 16it [06:15,  
-hokusetu0821: 17it [06:18,  
-hokusetu0821: 17it [06:18,  
-hokusetu0821: 18it [06:20,  
-hokusetu0821: 18it [06:20,  
-hokusetu0821: 19it [06:22,  
-hokusetu0821: 19it [06:22,  
-hokusetu0821: 20it [06:24,  
-hokusetu0821: 20it [06:24,  
-hokusetu0821: 21it [06:26,  
-hokusetu0821: 21it [06:27,  
-hokusetu0821: 22it [06:29,  
-hokusetu0821: 22it [06:29,  
-hokusetu0821: 23it [06:31,  
-hokusetu0821: 23it [06:31,  
-hokusetu0821: 24it [06:33,  
-hokusetu0821: 24it [06:33,  
-hokusetu0821: 25it [06:36,  
-hokusetu0821: 25it [06:36,  
-hokusetu0821: 26it [06:38,  
-hokusetu0821: 26it [06:38,  
-hokusetu0821: 27it [06:40,  
-hokusetu0821: 27it [06:40,  
-hokusetu0821: 28it [06:42,  
-hokusetu0821: 28it [06:42,  
-hokusetu0821: 29it [06:45,  
-hokusetu0821: 29it [06:45,  
-hokusetu0821: 30it [06:47,  
-hokusetu0821: 30it [06:47,  
-hokusetu0821: 31it [06:49,  
-hokusetu0821: 31it [06:49,  
-hokusetu0821: 32it [06:51,  
-hokusetu0821: 32it [06:52,  
-hokusetu0821: 33it [06:54,  
-hokusetu0821: 33it [06:54,  
-hokusetu0821: 34it [06:56,  
-hokusetu0821: 34it [06:56,  
-hokusetu0821: 35it [06:58,  
-hokusetu0821: 35it [06:58,  
-hokusetu0821: 36it [07:00,  
-hokusetu0821: 36it [07:01,  
-hokusetu0821: 37it [07:03,  
-hokusetu0821: 37it [07:03,  
-hokusetu0821: 38it [07:05,  
-hokusetu0821: 38it [07:05,  
-hokusetu0821: 39it [07:08,  
-hokusetu0821: 39it [07:08,  
-hokusetu0821: 40it [07:10,  
-hokusetu0821: 40it [07:10,  
-hokusetu0821: 41it [07:12,  
-hokusetu0821: 41it [07:12,  
-hokusetu0821: 42it [07:15,  
-hokusetu0821: 42it [07:15,  
-hokusetu0821: 43it [07:17,  
-hokusetu0821: 43it [07:17,  
-hokusetu0821: 44it [07:19,  
-hokusetu0821: 44it [07:19,  
-hokusetu0821: 45it [07:21,  
-hokusetu0821: 45it [07:21,  
-hokusetu0821: 46it [07:24,  
-hokusetu0821: 46it [07:24,  
-hokusetu0821: 47it [07:26,  
-hokusetu0821: 47it [07:26,  
-hokusetu0821: 48it [07:28,  
-hokusetu0821: 48it [07:28,  
-hokusetu0821: 49it [07:30,  
-hokusetu0821: 49it [07:31,  
-hokusetu0821: 50it [07:33,  
-hokusetu0821: 50it [07:33,  
+mhpht555 -> 34 outfits | ⏱ 22.99s | avg 208.58s  
 hokusetu0821 -> 571 outfits | ⏱ 453.29s | avg 212.18s
-Users:  14%|▏| 70/500 [4:18:
-kawanojunichi: 0it [00:00, ?
-kawanojunichi: 1it [00:01,  
-kawanojunichi: 1it [00:36,  
-kawanojunichi: 2it [00:38, 2
-kawanojunichi: 2it [00:48, 2
-kawanojunichi: 3it [00:50, 1
-kawanojunichi: 3it [00:50, 1
-kawanojunichi: 4it [00:52, 1
-kawanojunichi: 4it [00:52, 1
-kawanojunichi: 5it [00:54,  
-kawanojunichi: 5it [00:55,  
-kawanojunichi: 6it [00:57,  
-kawanojunichi: 6it [00:57,  
-kawanojunichi: 7it [00:59,  
-kawanojunichi: 7it [00:59,  
-kawanojunichi: 8it [01:01,  
-kawanojunichi: 8it [01:01,  
-kawanojunichi: 9it [01:03,  
-kawanojunichi: 9it [01:03,  
-kawanojunichi: 10it [01:06, 
-kawanojunichi: 10it [01:06, 
-kawanojunichi: 11it [01:08, 
-kawanojunichi: 11it [01:08, 
-kawanojunichi: 12it [01:10, 
-kawanojunichi: 12it [01:10, 
-kawanojunichi: 13it [01:12, 
-kawanojunichi: 13it [01:12, 
-kawanojunichi: 14it [01:14, 
-kawanojunichi: 14it [01:14, 
-kawanojunichi: 15it [01:16, 
-kawanojunichi: 15it [01:17, 
-kawanojunichi: 16it [01:19, 
-kawanojunichi: 16it [01:19, 
-kawanojunichi: 17it [01:21, 
-kawanojunichi: 17it [01:21, 
-kawanojunichi: 18it [01:23, 
-kawanojunichi: 18it [01:23, 
-kawanojunichi: 19it [01:25, 
-kawanojunichi: 19it [01:25, 
-kawanojunichi: 20it [01:27, 
-kawanojunichi: 20it [01:28, 
-kawanojunichi: 21it [01:30, 
-kawanojunichi: 21it [01:30, 
-kawanojunichi: 22it [01:32, 
-kawanojunichi: 22it [01:32, 
-kawanojunichi: 23it [01:34, 
-kawanojunichi: 23it [01:34, 
-kawanojunichi: 24it [01:36, 
-kawanojunichi: 24it [01:36, 
-kawanojunichi: 25it [01:38, 
-kawanojunichi: 25it [01:38, 
-kawanojunichi: 26it [01:40, 
-kawanojunichi: 26it [01:41, 
-kawanojunichi: 27it [01:43, 
-kawanojunichi: 27it [01:43, 
-kawanojunichi: 28it [01:45, 
-kawanojunichi: 28it [01:45, 
-kawanojunichi: 29it [01:47, 
-kawanojunichi: 29it [01:47, 
-kawanojunichi: 30it [01:49, 
-kawanojunichi: 30it [01:49, 
-kawanojunichi: 31it [01:51, 
-kawanojunichi: 31it [01:52, 
-kawanojunichi: 32it [01:54, 
-kawanojunichi: 32it [01:54, 
-kawanojunichi: 33it [01:56, 
-kawanojunichi: 33it [01:56, 
-kawanojunichi: 34it [01:58, 
-kawanojunichi: 34it [01:58, 
-kawanojunichi: 35it [02:00, 
-kawanojunichi: 35it [02:01, 
-kawanojunichi: 36it [02:03, 
-kawanojunichi: 36it [02:03, 
-kawanojunichi: 37it [02:05, 
-kawanojunichi: 37it [02:05, 
-kawanojunichi: 38it [02:07, 
-kawanojunichi: 38it [02:07, 
-kawanojunichi: 39it [02:09, 
-kawanojunichi: 39it [02:09, 
-kawanojunichi: 40it [02:11, 
-kawanojunichi: 40it [02:11, 
-kawanojunichi: 41it [02:13, 
-kawanojunichi: 41it [02:14, 
-kawanojunichi: 42it [02:16, 
-kawanojunichi: 42it [02:16, 
-kawanojunichi: 43it [02:18, 
-kawanojunichi: 43it [02:18, 
-kawanojunichi: 44it [02:20, 
-kawanojunichi: 44it [02:20, 
-kawanojunichi: 45it [02:22, 
-kawanojunichi: 45it [02:23, 
-kawanojunichi: 46it [02:25, 
-kawanojunichi: 46it [02:25, 
-kawanojunichi: 47it [02:27, 
-kawanojunichi: 47it [02:27, 
-kawanojunichi: 48it [02:29, 
-kawanojunichi: 48it [02:29, 
-kawanojunichi: 49it [02:31, 
-kawanojunichi: 49it [02:31, 
-kawanojunichi: 50it [02:33, 
-kawanojunichi: 50it [02:33, 
 kawanojunichi -> 77 outfits | ⏱ 153.70s | avg 211.33s
-Users:  14%|▏| 71/500 [4:20:
-ch1113kag: 0it [00:00, ?it/s
-ch1113kag: 1it [00:01,  1.91
-ch1113kag: 1it [00:38,  1.91
-ch1113kag: 2it [00:40, 23.56
-ch1113kag: 2it [01:16, 23.56
-ch1113kag: 3it [01:18, 30.07
-ch1113kag: 3it [01:54, 30.07
-ch1113kag: 4it [01:56, 33.18
-ch1113kag: 4it [02:32, 33.18
-ch1113kag: 5it [02:34, 35.05
-ch1113kag: 5it [03:11, 35.05
-ch1113kag: 6it [03:13, 36.20
-ch1113kag: 6it [03:50, 36.20
-ch1113kag: 7it [03:52, 37.18
-ch1113kag: 7it [04:29, 37.18
-ch1113kag: 8it [04:31, 37.67
-ch1113kag: 8it [04:41, 37.67
-ch1113kag -> 438 outfits | ⏱ 281.94s | avg 212.34s
-Users:  14%|▏| 72/500 [4:25:
-frayidofficial: 0it [00:00, 
-frayidofficial: 1it [00:01, 
-frayidofficial: 1it [00:40, 
-frayidofficial: 2it [00:42, 
-frayidofficial: 2it [01:20, 
-frayidofficial: 3it [01:22, 
-frayidofficial: 3it [01:59, 
-frayidofficial: 4it [02:01, 
-frayidofficial: 4it [02:39, 
-frayidofficial: 5it [02:41, 
-frayidofficial: 5it [03:18, 
-frayidofficial: 6it [03:20, 
-frayidofficial: 6it [03:59, 
-frayidofficial: 7it [04:01, 
-frayidofficial: 7it [04:38, 
-frayidofficial: 8it [04:40, 
-frayidofficial: 8it [05:19, 
-frayidofficial: 9it [05:21, 
-frayidofficial: 9it [05:58, 
-frayidofficial: 10it [06:00,
-frayidofficial: 10it [06:13,
-frayidofficial: 11it [06:15,
-frayidofficial: 11it [06:15,
-frayidofficial: 12it [06:17,
-frayidofficial: 12it [06:17,
-frayidofficial: 13it [06:19,
-frayidofficial: 13it [06:20,
-frayidofficial: 14it [06:22,
-frayidofficial: 14it [06:22,
-frayidofficial: 15it [06:24,
-frayidofficial: 15it [06:24,
-frayidofficial: 16it [06:27,
-frayidofficial: 16it [06:27,
-frayidofficial: 17it [06:29,
-frayidofficial: 17it [06:29,
-frayidofficial: 18it [06:31,
-frayidofficial: 18it [06:31,
-frayidofficial: 19it [06:34,
-frayidofficial: 19it [06:34,
-frayidofficial: 20it [06:36,
-frayidofficial: 20it [06:36,
-frayidofficial: 21it [06:38,
-frayidofficial: 21it [06:38,
-frayidofficial: 22it [06:42,
-frayidofficial: 22it [06:42,
-frayidofficial: 23it [06:44,
-frayidofficial: 23it [06:44,
-frayidofficial: 24it [06:46,
-frayidofficial: 24it [06:46,
-frayidofficial: 25it [06:49,
-frayidofficial: 25it [06:49,
-frayidofficial: 26it [06:51,
-frayidofficial: 26it [06:51,
-frayidofficial: 27it [06:53,
-frayidofficial: 27it [06:53,
-frayidofficial: 28it [06:56,
-frayidofficial: 28it [06:56,
-frayidofficial: 29it [06:58,
-frayidofficial: 29it [06:58,
-frayidofficial: 30it [07:00,
-frayidofficial: 30it [07:00,
-frayidofficial: 31it [07:03,
-frayidofficial: 31it [07:03,
-frayidofficial: 32it [07:05,
-frayidofficial: 32it [07:05,
-frayidofficial: 33it [07:07,
-frayidofficial: 33it [07:08,
-frayidofficial: 34it [07:10,
-frayidofficial: 34it [07:10,
-frayidofficial: 35it [07:12,
-frayidofficial: 35it [07:12,
-frayidofficial: 36it [07:14,
-frayidofficial: 36it [07:14,
-frayidofficial: 37it [07:16,
-frayidofficial: 37it [07:16,
-frayidofficial: 38it [07:19,
-frayidofficial: 38it [07:19,
-frayidofficial: 39it [07:21,
-frayidofficial: 39it [07:21,
-frayidofficial: 40it [07:23,
-frayidofficial: 40it [07:23,
-frayidofficial: 41it [07:25,
-frayidofficial: 41it [07:25,
-frayidofficial: 42it [07:28,
-frayidofficial: 42it [07:28,
-frayidofficial: 43it [07:30,
-frayidofficial: 43it [07:30,
-frayidofficial: 44it [07:32,
-frayidofficial: 44it [07:33,
-frayidofficial: 45it [07:35,
-frayidofficial: 45it [07:35,
-frayidofficial: 46it [07:37,
-frayidofficial: 46it [07:37,
-frayidofficial: 47it [07:39,
-frayidofficial: 47it [07:40,
-frayidofficial: 48it [07:42,
-frayidofficial: 48it [07:42,
-frayidofficial: 49it [07:44,
-frayidofficial: 49it [07:44,
-frayidofficial: 50it [07:46,
-frayidofficial: 50it [07:46,
+ch1113kag -> 438 outfits | ⏱ 281.94s | avg 212.34s,
 frayidofficial -> 560 outfits | ⏱ 466.77s | avg 215.92s
 Users:  15%|▏| 73/500 [4:33:
 popom: 1it [00:01,  1.91s/it
 popom: 1it [00:01,  1.91s/it
 popom -> 0 outfits | ⏱ 1.92s | avg 212.95s
-Users:  15%|▏| 74/500 [4:33:
-111000: 1it [00:02,  2.05s/i
-111000: 1it [00:40,  2.05s/i
-111000: 2it [00:42, 24.56s/i
-111000: 2it [00:46, 24.56s/i
 111000 -> 67 outfits | ⏱ 46.71s | avg 210.67s
-Users:  15%|▏| 75/500 [4:34:
-ggmori: 1it [00:01,  1.97s/i
-ggmori: 1it [00:40,  1.97s/i
-ggmori: 2it [00:42, 24.49s/i
-ggmori: 2it [01:20, 24.49s/i
 ggmori -> 201 outfits | ⏱ 249.74s | avg 211.20s
-Users:  15%|██████▌                                    | 76/500 [4:38:19<22:12:04, 188.50s/it]
-nackr: 1it [00:01,  1.98s/it
-nackr: 1it [00:41,  1.98s/it
-                                                                               nackr -> 458 outfits | ⏱ 409.24s | avg 213.84s
+nackr -> 458 outfits | ⏱ 409.24s | avg 213.84s
 nfaansstaff14 -> 943 outfits | ⏱ 665.33s | avg 219.78s                         
 3moon37 -> 150 outfits | ⏱ 103.88s | avg 218.28s                               
 mamigon0207 -> 853 outfits | ⏱ 672.35s | avg 224.10s                           
@@ -521,7 +45,7 @@ skypaisen -> 197 outfits | ⏱ 135.49s | avg 224.55s
 smilesmilehappy -> 568 outfits | ⏱ 369.67s | avg 226.34s                       
 we3t7r9ar -> 96 outfits | ⏱ 64.93s | avg 224.37s                               
 osamu12267 -> 155 outfits | ⏱ 218.42s | avg 224.30s                            
-Users:  17%|████▊                       | 85/500❌ download fail: https://images.wear2.jp/coordinate/xViEPAR/0JHdgXQL/1709773667_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
+❌ download fail: https://images.wear2.jp/coordinate/xViEPAR/0JHdgXQL/1709773667_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
 nanase0103 -> 938 outfits | ⏱ 667.62s | avg 229.58s                            
 taki24 -> 212 outfits | ⏱ 140.70s | avg 228.53s                                
 chilunaaa -> 82 outfits | ⏱ 55.70s | avg 226.52s                               
@@ -531,7 +55,7 @@ niaulabtvmisato -> 122 outfits | ⏱ 187.57s | avg 226.72s
 yaiyueyoko -> 142 outfits | ⏱ 202.88s | avg 226.46s                            
 ms10583 -> 168 outfits | ⏱ 224.38s | avg 226.44s                                                                        
 arellxx -> 109 outfits | ⏱ 184.59s | avg 225.98s                                                                        
-                                                                               macromance -> 204 outfits | ⏱ 136.41s | avg 225.02s
+macromance -> 204 outfits | ⏱ 136.41s | avg 225.02s
 ymmt_93 -> 596 outfits | ⏱ 401.12s | avg 226.89s                               
 makimisaki -> 281 outfits | ⏱ 186.17s | avg 226.46s                            
 butanikuoic -> 331 outfits | ⏱ 319.61s | avg 227.43s                           
@@ -555,7 +79,7 @@ ayann629 -> 200 outfits | ⏱ 135.57s | avg 232.20s
 181cm73kg -> 72 outfits | ⏱ 50.27s | avg 230.60s                               
 keitaootd -> 44 outfits | ⏱ 136.34s | avg 229.78s                              
 siirune -> 113 outfits | ⏱ 75.10s | avg 228.45s                                
-Users:  24%|██████▎                    | 118/5❌ download fail: https://images.wear2.jp/coordinate/qri8Gb2L/95fE5S6B/1711162587_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
+❌ download fail: https://images.wear2.jp/coordinate/qri8Gb2L/95fE5S6B/1711162587_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
 hakana43 -> 889 outfits | ⏱ 601.41s | avg 231.64s                              
 lilfulofficial -> 197 outfits | ⏱ 232.69s | avg 231.65s                        
 akurwear -> 111 outfits | ⏱ 74.92s | avg 230.33s                               
@@ -575,7 +99,7 @@ yns628 -> 338 outfits | ⏱ 224.72s | avg 232.03s
 tai42528 -> 464 outfits | ⏱ 405.71s | avg 233.34s                              
 macodurian8785 -> 501 outfits | ⏱ 347.85s | avg 234.19s                        
 keiiwear -> 47 outfits | ⏱ 135.24s | avg 233.46s                               
-Users:  27%|███████▍                   | 137/50❌ status 403: https://images.wear2.jp/coordinate/MniLBdE5/3iNgeq2m/1693211232_276.jpg
+❌ status 403: https://images.wear2.jp/coordinate/MniLBdE5/3iNgeq2m/1693211232_276.jpg
 ❌ status 403: https://images.wear2.jp/coordinate/MniLBdE5/djXgLhFM/1691466046_276.jpg
 ❌ status 403: https://images.wear2.jp/coordinate/MniLBdE5/lMWnfafz/1691464516_276.jpg
 mashio2022 -> 240 outfits | ⏱ 163.52s | avg 232.95s                            
@@ -584,14 +108,14 @@ saki19901027 -> 683 outfits | ⏱ 576.36s | avg 235.54s
 ay0314 -> 29 outfits | ⏱ 19.54s | avg 233.99s                                  
 yumin1221 -> 169 outfits | ⏱ 113.44s | avg 233.12s                             
 mocotori -> 28 outfits | ⏱ 20.87s | avg 231.62s                                
-Users:  29%|███████▋             ❌ download fail: https://images.wear2.jp/coordinate/BeiZLrQj/8Zwh8Jo3/1773090378_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
+❌ download fail: https://images.wear2.jp/coordinate/BeiZLrQj/8Zwh8Jo3/1773090378_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
 eva083114 -> 310 outfits | ⏱ 330.03s | avg 232.31s                             
 tetsuzin29 -> 201 outfits | ⏱ 251.40s | avg 232.45s                            
 mimimiura -> 553 outfits | ⏱ 377.95s | avg 233.46s                             
 1994aim -> 912 outfits | ⏱ 710.83s | avg 236.75s                               
 haruaya77 -> 66 outfits | ⏱ 52.15s | avg 235.48s                               
 pimm15 -> 63 outfits | ⏱ 44.15s | avg 234.18s                                  
-Users:  30%|████████                   | 149/500❌ download fail: https://images.wear2.jp/coordinate/2qiQDoRg/BcKFJxyL/1735977715_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
+❌ download fail: https://images.wear2.jp/coordinate/2qiQDoRg/BcKFJxyL/1735977715_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
 uedaaa05reo -> 274 outfits | ⏱ 269.16s | avg 234.42s                           
 akuy2 -> 148 outfits | ⏱ 81.58s | avg 233.39s                                  
 kazumi153 -> 509 outfits | ⏱ 444.31s | avg 234.80s                             
@@ -602,7 +126,7 @@ ms09496 -> 481 outfits | ⏱ 282.29s | avg 231.75s
 ms09312 -> 556 outfits | ⏱ 339.41s | avg 232.44s                               
 SPICK254x8 -> 153 outfits | ⏱ 99.33s | avg 231.59s                             
 ms11147 -> 195 outfits | ⏱ 198.73s | avg 231.38s                               
-Users:  32%|████████▎                 | 159/500 [10❌ download fail: https://images.wear2.jp/coordinate/BeiZLBXO/Tk9GzLix/1706661980_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
+❌ download fail: https://images.wear2.jp/coordinate/BeiZLBXO/Tk9GzLix/1706661980_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
 ships_9503awt -> 896 outfits | ⏱ 685.58s | avg 234.25s                         
 miccco -> 51 outfits | ⏱ 34.01s | avg 232.99s                                  
 mayuchan04 -> 84 outfits | ⏱ 57.62s | avg 231.90s                              
@@ -778,7 +302,7 @@ ms10551 -> 319 outfits | ⏱ 305.29s | avg 212.10s
 harapeko2525 -> 919 outfits | ⏱ 617.49s | avg 213.33s                          
 ryuseistyling -> 114 outfits | ⏱ 183.72s | avg 213.24s                         
 matmt12 -> 712 outfits | ⏱ 468.71s | avg 214.01s                               
-Users:  67%|█████████████████▎        | 334/500 [20❌ status 403: https://images.wear2.jp/coordinate/8BiXm6Py/gGYpijJp/1716783685_276.jpg
+❌ status 403: https://images.wear2.jp/coordinate/8BiXm6Py/gGYpijJp/1716783685_276.jpg
 ships_3703mory -> 475 outfits | ⏱ 298.88s | avg 214.27s                        
 mh20050507 -> 45 outfits | ⏱ 137.44s | avg 214.04s                             
 yayo0309i -> 185 outfits | ⏱ 215.40s | avg 214.04s                             
@@ -788,7 +312,7 @@ fujiki1017 -> 21 outfits | ⏱ 14.99s | avg 213.03s
 azulbymoussyofficial -> 225 outfits | ⏱ 245.17s | avg 213.13s                  
 ayuayuaaayu -> 382 outfits | ⏱ 360.21s | avg 213.56s                           
 mariasama -> 258 outfits | ⏱ 169.52s | avg 213.43s                             
-Users:  69%|██████████████████▌        | 343/5❌ status 403: https://images.wear2.jp/coordinate/lei0e8QM/5I5PWHcA/1715761016_276.jpg
+❌ status 403: https://images.wear2.jp/coordinate/lei0e8QM/5I5PWHcA/1715761016_276.jpg
 ❌ status 403: https://images.wear2.jp/coordinate/lei0e8QM/0sj3TaAa/1713751509_276.jpg
 kato2022 -> 773 outfits | ⏱ 509.14s | avg 214.30s                              
 mikusonvis -> 504 outfits | ⏱ 416.69s | avg 214.89s                            
@@ -807,7 +331,7 @@ noaverse -> 39 outfits | ⏱ 133.39s | avg 218.60s
 107982 -> 224 outfits | ⏱ 148.98s | avg 218.40s                                
 pypyoo -> 203 outfits | ⏱ 242.46s | avg 218.47s                                
 suhu12 -> 89 outfits | ⏱ 166.57s | avg 218.32s                                 
-Users:  72%|███████████████████▍ ❌ download fail: https://images.wear2.jp/coordinate/V7iEgv/q5SoVr1C/1767564567_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
+❌ download fail: https://images.wear2.jp/coordinate/V7iEgv/q5SoVr1C/1767564567_276.jpg | HTTPSConnectionPool(host='images.wear2.jp', port=443): Read timed out. (read timeout=10)
 shota6372 -> 311 outfits | ⏱ 320.82s | avg 218.61s                             
 ma04231104yumi -> 202 outfits | ⏱ 255.58s | avg 218.71s                        
 htm529 -> 263 outfits | ⏱ 186.66s | avg 218.62s                                
@@ -947,7 +471,7 @@ xaiai35x -> 413 outfits | ⏱ 270.31s | avg 215.05s
 aiueo0224 -> 137 outfits | ⏱ 198.15s | avg 215.01s                                                                      
 yuina44 -> 78 outfits | ⏱ 157.56s | avg 214.90s                                                                         
 hufjapan01 -> 128 outfits | ⏱ 194.95s | avg 214.86s                                                                     
-                                                                                              martevintage -> 814 outfits | ⏱ 626.01s | avg 215.68s
+martevintage -> 814 outfits | ⏱ 626.01s | avg 215.68s
 Users: 100%|████████████████████████████████████████████| 500/500 [30:15:05<00:00, 217.81s/it]
 
 ✅ Done: 500 ~ 1000
