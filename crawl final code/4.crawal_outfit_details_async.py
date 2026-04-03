@@ -6,9 +6,9 @@ from urllib.parse import urljoin
 from playwright.async_api import async_playwright
 from tqdm import tqdm
 
-INPUT_JSONL = "test.jsonl"
-OUTPUT_JSONL = "wear_outfit_details_async.jsonl"
-ERROR_JSONL = "error_outfits.jsonl"
+INPUT_JSONL = "wear_user_outfits3.jsonl"
+OUTPUT_JSONL = "wear_outfit_details3.jsonl"
+ERROR_JSONL = "error_outfits3.jsonl"
 
 BASE_DOMAIN = "https://wear.jp"
 CONCURRENCY = 5
